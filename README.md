@@ -13,19 +13,6 @@ Pre-requisites
 
 - Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
 
-Getting Started
----------------
-
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
-
-Tips
-----
-
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
-
 Output Screenshots
 ------------------
 <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersMain.png" alt="Dogglers Main Landing View"> <img width="200" height="433" src="https://raw.githubusercontent.com/HemantSachdeva/Dogglers/kt/output/DogglersVertical.png" alt="Dogglers Vertical List View">
